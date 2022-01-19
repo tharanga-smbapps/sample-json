@@ -1,12 +1,12 @@
 [
     {
         "imageUrl": "https://github.com/tharanga-smbapps/sample-json/raw/main/assets/1.pngg",
-        "description": "This is a test promo",
+        "description": "For every 1K you invest in December you get extra 1% interest. ",
         "infoUrl": "https://www.asiapacific.tech/"
     },
     {
         "imageUrl": "https://github.com/tharanga-smbapps/sample-json/raw/main/assets/2.png",
-        "description": "This is a test promo",
+        "description": "For every 2K you invest in December you get extra 1% interest.",
         "infoUrl": "https://www.asiapacific.tech/"
     }
 ]
