@@ -1,10 +1,5 @@
 [
     {
-        "amount": 123.0,
-        "weekStartDate": "2021-11-01",
-        "weekEndDate": "2021-11-07"
-    },
-    {
         "amount": 130.0,
         "weekStartDate": "2021-11-08",
         "weekEndDate": "2021-11-14"
