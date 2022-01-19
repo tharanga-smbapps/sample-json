@@ -1,0 +1,47 @@
+[
+    {
+        "amount": 123.0,
+        "weekStartDate": "2021-11-01",
+        "weekEndDate": "2021-11-07"
+    },
+    {
+        "amount": 130.0,
+        "weekStartDate": "2021-11-08",
+        "weekEndDate": "2021-11-14"
+    },
+    {
+        "amount": 89.0,
+        "weekStartDate": "2021-11-15",
+        "weekEndDate": "2021-11-21"
+    },
+    {
+        "amount": 110.0,
+        "weekStartDate": "2021-11-22",
+        "weekEndDate": "2021-11-28"
+    },
+    {
+        "amount": 113.0,
+        "weekStartDate": "2021-11-29",
+        "weekEndDate": "2021-12-05"
+    },
+    {
+        "amount": 133.0,
+        "weekStartDate": "2021-12-06",
+        "weekEndDate": "2021-12-12"
+    },
+    {
+        "amount": 105.0,
+        "weekStartDate": "2021-12-13",
+        "weekEndDate": "2021-12-19"
+    },
+    {
+        "amount": 99.0,
+        "weekStartDate": "2021-12-20",
+        "weekEndDate": "2021-12-26"
+    },
+    {
+        "amount": 119.0,
+        "weekStartDate": "2021-12-27",
+        "weekEndDate": "2022-01-03"
+    }
+]
