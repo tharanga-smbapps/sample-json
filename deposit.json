@@ -1,0 +1,12 @@
+{
+  "bank": {
+    "accountName":"hodlx",
+    "bsb":"802-958",
+    "accountNumber":"214809747",
+    "reference":"Sinhara Silva"
+  },
+  "payId": {
+    "billername":"hodlx",
+    "payId":"214809747@hodlx.com.au"
+  }
+}
