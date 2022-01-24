@@ -3,24 +3,28 @@
     "total":16000.00,
     "transactions":[
       {
+        "title":"deposit",
         "type":"deposit",
         "remark":"Deposit from your bank account",
         "datetime":"11 Dec 2021 11:23 PM",
         "amount":120.00
       },
       {
-        "type":"transfer",
+        "title":"transfer",
+        "type":"withdraw",
         "remark":"Transfer to investing account ",
         "datetime":"11 Dec 2021 11:23 PM",
         "amount":120.00
       },
       {
-        "type":"transfer",
+        "title":"transfer",
+        "type":"deposit",
         "remark":"Transfer from Investing account",
         "datetime":"11 Dec 2021 11:23 PM",
         "amount":1230.00
       },
       {
+        "title":"withdraw",
         "type":"withdraw",
         "remark":"Withdraw to your bank account",
         "datetime":"11 Dec 2021 11:23 PM",
@@ -32,19 +36,22 @@
     "total":15000.00,
     "transactions":[
       {
-        "type":"transfer",
+        "title":"transfer",
+        "type":"deposit",
         "remark":"Transfer from cash account",
         "datetime":"11 Dec 2021 11:23 PM",
         "amount":13.00
       },
       {
-        "type":"transfer",
+        "title":"transfer",
+        "type":"withdraw",
         "remark":"Transfer to cash account ",
         "datetime":"11 Dec 2021 11:23 PM",
         "amount":120.00
       },
       {
-        "type":"interest",
+        "title":"interest",
+        "type":"deposit",
         "remark":"Interest received from investments",
         "datetime":"11 Dec 2021 11:23 PM",
         "amount":120.00
